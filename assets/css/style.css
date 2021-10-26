@@ -5,7 +5,6 @@
 }
 
 /* styles to body */
-
 body {
     background-color: #d9dcd6;
 }
@@ -20,7 +19,6 @@ body p {
 }
 
 /* syles to header */
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -54,7 +52,6 @@ header nav ul li {
     margin-left: 25px;
 }
 /* styles to footer */
-
 footer {
     padding: 30px;
     clear: both;
@@ -67,7 +64,6 @@ footer h2 {
 }
 
 /* styles to hero/jumbotron */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -94,7 +90,6 @@ footer h2 {
 }
 
 /* styles to services */
-
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,7 +145,6 @@ footer h2 {
 }
 
 /* styles to benefit */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
